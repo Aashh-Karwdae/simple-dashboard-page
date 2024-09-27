@@ -1,0 +1,47 @@
+.sidebar {
+  flex: 2;
+  background-color: #050566;
+  height: 100vh;
+}
+
+.SidebarContent {
+  margin-left: 20px;
+  cursor: pointer;
+  color: white;
+}
+
+.firstitle {
+  display: flex;
+  align-items: center;
+  color: white;
+  font-family: "Gabarito", sans-serif;
+  font-size: 15px;
+  margin-top: 20px;
+  margin-left: 40px;
+}
+.TitleIcon {
+  margin-right: 10px;
+  width: 40px;
+  height: 40px;
+}
+
+.Icons {
+  width: 30px;
+  height: 30px;
+  margin-right: 15px;
+}
+
+.sidelistblock {
+  margin-top: 20px;
+  margin-left: 50px;
+}
+
+.Sidelist {
+  display: flex;
+  padding-top: 40px;
+}
+
+.SideHeadings {
+  font-size: 14px;
+  font-weight: 500;
+}

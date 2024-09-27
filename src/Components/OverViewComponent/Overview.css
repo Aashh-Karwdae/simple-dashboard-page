@@ -1,0 +1,38 @@
+.overview {
+  display: flex;
+  align-items: center;
+}
+
+.FirstCompo {
+  height: 280px;
+  width: 680px;
+  background-color: white;
+  margin-left: 35px;
+  margin-top: 30px;
+  border-radius: 10px;
+}
+
+.topbar {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.Heading {
+  margin-top: 20px;
+  margin-left: 17px;
+}
+
+.selectDiv {
+  margin-top: 20px;
+  margin-right: 20px;
+  border-color: white;
+}
+
+.selectOption {
+  width: 100px;
+  height: 25px;
+  background-color: rgb(245, 248, 250);
+  border: none;
+  border-radius: 5px;
+}
